@@ -2246,8 +2246,8 @@ Group.remap={
     2187 801300e6 0
     2188 801300e7 0
 }
-Group.impFile=C:\Users\user\Documents\332.slvs
-Group.impFileRel=332.slvs
+Group.impFile=test.slvs
+Group.impFileRel=test.slvs
 AddGroup
 
 Param.h.v.=00010010
